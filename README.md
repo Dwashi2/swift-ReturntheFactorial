@@ -4,9 +4,9 @@
 <br />
 <p align="center">
 
-  <h3 align="center">Swift Pratice</h3>
+  <h3 align="center">Swift Study</h3>
   <p align="center">
-    Project to pratice Swift 5.4
+    Project to study Swift 5.4
   </p>
 </p>
 
