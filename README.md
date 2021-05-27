@@ -44,7 +44,7 @@
      Assume all inputs are greater than or equal to 0.
 
           
-     Exercices are from: https://edabit.com/challenges/swift
+     Excercise from: https://edabit.com/challenges/swift
 
 
 <!-- GETTING STARTED -->
